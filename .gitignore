@@ -27,7 +27,6 @@ npm-debug.log
 
 # development
 tmp
-dist
 .env
 .eslintcache
 yarn.lock
